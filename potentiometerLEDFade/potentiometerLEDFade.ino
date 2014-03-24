@@ -6,7 +6,8 @@
  Intended for use on an Arduino Uno.
  Connect a potentiometer input to analog input pin 0, and an LED through a 220 Ohm resistor to digital output pin 9.
  
- This example code is in the public domain.
+ This is code influenced by examples on arduino.cc
+ 
  */
 
 int led = 9;           // the pin that the LED is attached to
